@@ -13,7 +13,7 @@ Analyze the relationship between Bitcoin market sentiment (Fear/Greed) and trade
 3. Exploratory Data Analysis (EDA)
 4. Visualization
 5. Sentiment-Based Performance Analysis
-6. Bonus Machine Learning Model
+6. Machine Learning Model
 
 ## Analysis Performed
 - Average Profit by Sentiment
@@ -25,7 +25,7 @@ Analyze the relationship between Bitcoin market sentiment (Fear/Greed) and trade
 - Win Rate Analysis
 - Trade Count Analysis
 
-## Bonus ML Model
+## ML Model
 Random Forest Classifier used to predict whether a trade is profitable.
 
 Features:
