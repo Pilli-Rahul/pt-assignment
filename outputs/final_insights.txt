@@ -1,0 +1,11 @@
+Final Insights
+====================
+
+1. The project analyzes the relationship between Bitcoin market sentiment and trader performance.
+2. Trader data was merged with Fear & Greed Index data using date.
+3. Closed PnL was used as the main performance metric.
+4. Size USD, Fee, Side, Coin, and Start Position were used to study trading behavior.
+5. Win rate was calculated to identify profitable trading conditions.
+6. Charts were generated to compare profit, volume, fee, and trading activity across sentiments.
+7. A Random Forest model was added as a bonus to predict whether a trade is profitable.
+8. Feature importance shows which variables influence profitability the most.

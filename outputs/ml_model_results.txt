@@ -1,0 +1,14 @@
+Bonus ML Model: Random Forest Classifier
+Target: Predict whether a trade is profitable or not
+
+Accuracy: 0.8115
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.88      0.85     24871
+           1       0.81      0.71      0.76     17373
+
+    accuracy                           0.81     42244
+   macro avg       0.81      0.80      0.80     42244
+weighted avg       0.81      0.81      0.81     42244
